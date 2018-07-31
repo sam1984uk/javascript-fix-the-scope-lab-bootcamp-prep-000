@@ -20,4 +20,4 @@ var funkyFunction = function() {
   }
 }
 
-function theFunk(){return function()}
+var fu
